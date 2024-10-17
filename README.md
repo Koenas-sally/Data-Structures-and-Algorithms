@@ -1,2 +1,2 @@
-# Introduction-to-Data-Structures-and-Algorithms-in-C++
+# Introduction-To-Data-Structures-And-Algorithms-In-C++
 Comprehensive library for data structures and algorithms 
